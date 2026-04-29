@@ -25,8 +25,8 @@
 
 > **📸 系统实机截图演示：**
 > (![大盘看板](images/4.png) 
-> [images/2.png]
-> [images/3.png]
+> (images/2.png)
+> (images/3.png)
 
 ### 2. 🛡️ 舆情安保 Agent (Public Relations Security)
 高并发下，爆款贴文常混入极难识别的南亚/中东俚语脏话。本 Agent 充当了 24 小时无休的超级客服：
@@ -36,7 +36,7 @@
 * **超时自动托管 (Auto-Fallback)**：发现恶评后，系统会在 Discord 渲染带有 `[确认删除]`, `[确认回复]`, `[忽略]` 的交互视图。若人工 5 分钟内未干预，Agent 将接管最高权限，闭环调用 FB API 自动清理。
 
 > **📸 系统实机截图演示：**
-> [images/1.png]
+> (images/1.png)
 
 ---
 
