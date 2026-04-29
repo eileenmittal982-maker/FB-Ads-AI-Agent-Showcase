@@ -24,9 +24,9 @@
 * **Discord 实时动态大屏**：基于 Discord Embeds 构建了“异常报警板”与“全局财务概览板”，全天候实时动态刷新。
 
 > **📸 系统实机截图演示：**
-> *(  ： `![大盘看板](https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/main/a2a82fa99cf6bc1f3bce54174d630068.png)` )*
-> `[(https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/82aa07f8076ccbbfa6749b5fa5266bc756b61b77/086a3e13877897977c8c357614cc4086.png)]`
-> `[(https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/main/8132184bd195efb444032ac62b8af4a9.png)]`
+> *(请用 Markdown 语法插入你的大盘截图： `![大盘看板](你的图片链接)` )*
+> `![财务大盘截图](https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/82aa07f8076ccbbfa6749b5fa5266bc756b61b77/086a3e13877897977c8c357614cc4086.png)`
+> `[在此处插入带有红绿色报警提示的异常盯盘看板截图]`
 
 ### 2. 🛡️ 舆情安保 Agent (Public Relations Security)
 高并发下，爆款贴文常混入极难识别的南亚/中东俚语脏话。本 Agent 充当了 24 小时无休的超级客服：
@@ -36,7 +36,7 @@
 * **超时自动托管 (Auto-Fallback)**：发现恶评后，系统会在 Discord 渲染带有 `[确认删除]`, `[确认回复]`, `[忽略]` 的交互视图。若人工 5 分钟内未干预，Agent 将接管最高权限，闭环调用 FB API 自动清理。
 
 > **📸 系统实机截图演示：**
-> `(https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/main/1b4b894772ef8411f0329d7543cb2a77.png)]`
+> `[在此处插入你在Discord看到的抓取到恶评，并且带有红绿色按钮的截图]`
 
 ---
 
