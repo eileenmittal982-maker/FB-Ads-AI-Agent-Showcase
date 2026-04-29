@@ -25,7 +25,7 @@
 
 > **📸 系统实机截图演示：**
 > *(  ： `![大盘看板](https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/main/a2a82fa99cf6bc1f3bce54174d630068.png)` )*
-> `[(https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/main/086a3e13877897977c8c357614cc4086.png)]`
+> `[(https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/82aa07f8076ccbbfa6749b5fa5266bc756b61b77/086a3e13877897977c8c357614cc4086.png)]`
 > `[(https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/main/8132184bd195efb444032ac62b8af4a9.png)]`
 
 ### 2. 🛡️ 舆情安保 Agent (Public Relations Security)
