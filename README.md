@@ -1,3 +1,4 @@
+<img width="758" height="290" alt="1b4b894772ef8411f0329d7543cb2a77" src="https://github.com/user-attachments/assets/19d4ff2f-3e25-449f-829c-8b33f564146f" /><img width="758" height="290" alt="1b4b894772ef8411f0329d7543cb2a77" src="https://github.com/user-attachments/assets/b35a2fd1-b828-42fe-b7c3-388f5481201f" />![1b4b894772ef8411f0329d7543cb2a77](https://github.com/user-attachments/assets/8cf9414e-cf8d-4f54-aea8-d032bb45abcc)
 # 🚀 Facebook 跨境广告与舆情智能协同 Agent (AI Workspace)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -25,7 +26,8 @@
 
 > **📸 系统实机截图演示：**
 > *(请用 Markdown 语法插入你的大盘截图： `![大盘看板](你的图片链接)` )*
-> `![财务大盘截图](https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/82aa07f8076ccbbfa6749b5fa5266bc756b61b77/086a3e13877897977c8c357614cc4086.png)`
+> `![财务大盘截图](<img width="758" height="290" alt="1b4b894772ef8411f0329d7543cb2a77" src="https://github.com/user-attachments/assets/6eb04d92-c9c7-4729-bc58-45767a9483ad" />
+)`
 > `[在此处插入带有红绿色报警提示的异常盯盘看板截图]`
 
 ### 2. 🛡️ 舆情安保 Agent (Public Relations Security)
