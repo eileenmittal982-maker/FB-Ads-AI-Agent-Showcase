@@ -24,7 +24,7 @@
 * **Discord 实时动态大屏**：基于 Discord Embeds 构建了“异常报警板”与“全局财务概览板”，全天候实时动态刷新。
 
 > **📸 系统实机截图演示：**
-> *(请用 Markdown 语法插入你的大盘截图： `![大盘看板](你的图片链接)` )*
+> https://github.com/eileenmittal982-maker/FB-Ads-AI-Agent-Showcase/blob/main/086a3e13877897977c8c357614cc4086.png
 > `[在此处插入你在Discord看到的带有下划线高亮数字的蓝色财务看板截图]`
 > `[在此处插入带有红绿色报警提示的异常盯盘看板截图]`
 
